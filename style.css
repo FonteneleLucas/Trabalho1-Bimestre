@@ -2,3 +2,29 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+.div1{
+	width: 60%;
+	text-align: center;
+	background-color: #789654;
+	margin: 10% auto 0 auto;
+	height: 80px;
+	border-radius: 80px;
+}
+
+.div1 p{
+	padding: 30px;
+}
+
+.div2{
+	width: 60%;
+	text-align: center;
+	background-color: #209660;
+	margin: 2% auto 0 auto;
+	height: 80px;
+	border-radius: 80px;
+}
+
+.div2 p{
+	padding: 30px;
+}
